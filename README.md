@@ -10,17 +10,32 @@ Actualmente me encuentro en Búsqueda de nuevos retos, nuevas propuestas.
 
 2019 - Actualidad
 
-Empresa: Saludness | Hospital Regional de Alta Especialidad de Ixtapaluca
-Cargo: Ingeniero de Soporte y Consultoria.
-Actividades realizadas: Soporte en sitio y Vía Telefonica para el personal de salud que labora dentro del hospita, levantamiento de requerimientos, implementacion y coordinacion de cambios al Sistema Clínico Electronico. Manejo de herramientas como Tableros Trello basado en la Metodologia Kanban, manejo de SpreedSheet de Google. 
+**Empresa**: Saludness | Hospital Regional de Alta Especialidad de Ixtapaluca
+**Cargo**: Ingeniero de Soporte y Consultoria.
+**Actividades realizadas**: Soporte en sitio y Vía Telefonica para el personal de salud que labora dentro del hospita, levantamiento de requerimientos, implementacion y coordinacion de cambios al Sistema Clínico Electronico. Manejo de herramientas como Tableros Trello basado en la Metodologia Kanban, manejo de SpreedSheet de Google. 
 
 
 2016 - 2019
 
-Empresa: Nueva Generacion Manufacturas S.A. de C.V.
-Cargo: Programador Jr
-Actividades realizadas: Desarrollo de aplicaciones para los usuarios internos de la Empresa, así como brindar soporte tecnico a los equipos de computo. Levantamiento de requerimientos e implementacion de los diferentes modulos que abarca la empresa, como Finanzas, Ingenieria, Ventas, etc.
+**Empresa**: Nueva Generacion Manufacturas S.A. de C.V.
+**Cargo**: Programador Jr
+**Actividades realizadas**: Desarrollo de aplicaciones para los usuarios internos de la Empresa, así como brindar soporte tecnico a los equipos de computo. Levantamiento de requerimientos e implementacion de los diferentes modulos que abarca la empresa, como Finanzas, Ingenieria, Ventas, etc.
 
 
 # Conocimientos y Aptitudes
 - Programación en diferentes lenguajes
+  - Java
+  - Javascript
+  - CSS
+  - HTML
+  - C#
+  - Ado . NET
+  - Pxplus
+  - Providex
+  - Python
+
+- Desarrollo de Base de datos 
+  - Mysql
+  - Oracle 12
+  - Microsoft SQL
+
