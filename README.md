@@ -39,3 +39,15 @@ Actualmente me encuentro en Búsqueda de nuevos retos, nuevas propuestas.
   - Oracle 12
   - Microsoft SQL
 
+- Herramientas diversas
+  - Trello
+
+- Cursos y Certificaciones
+  - Scrum Master | MediaSoft
+  - P.M.I. | Udemy & ....
+
+
+# Proyectos 
+
+He trabajado en proyectos personales que han ayudado dentro en algunos caso en Escuelas y Equipos de Soporte
+
