@@ -1,4 +1,5 @@
 # Curriculum Vitae / Hoja de Vida
+
 Portafolio de Alejandro Cancino
 
 Soy Ingeniero en Sistemas, con 6 años de experiencia en el Sector Laboral. Cuento con 3 años de Desarrollo de Software y 3 Años como Ingeniero de Soporte.  Me he especializado en las herramientas que he ocupado a lo largo de mis 6 años laborando. 
@@ -24,7 +25,6 @@ Soy Ingeniero en Sistemas, con 6 años de experiencia en el Sector Laboral. Cuen
 
 # Conocimientos y Aptitudes
 - Programación en diferentes lenguajes
-```
   - Java
   - Javascript
   - CSS
@@ -34,24 +34,23 @@ Soy Ingeniero en Sistemas, con 6 años de experiencia en el Sector Laboral. Cuen
   - Pxplus
   - Providex
   - Python
-```
+
 
 - Desarrollo de Base de datos 
-```
   - Mysql
   - Oracle 12
   - Microsoft SQL
-```
+
 - Herramientas diversas
-```
   - Trello
-```
+  - Excel Intermedio
+  - Google Documents
+
 
 - Cursos y Certificaciones
-```
   - Scrum Master | MediaSoft
   - P.M.I. | Udemy & ....
-```
+
 
 # Proyectos 
 
@@ -60,8 +59,8 @@ Soy Ingeniero en Sistemas, con 6 años de experiencia en el Sector Laboral. Cuen
 
 ### **Sistema de Biblioteca**
 **Colegio de Estudios Científicos y Tecnológicos del Estado de México**
-> Descripción: Se desarrollo una pequeña página web local para la escuela, la cual proveia un Catálogo de los libros que contaba la Biblioteca Escolar, contaba con reportes que mostraban la información solicitada, tal como Libros prestados, que alumnos tienen libros, si contaba con algun retardo al momento de la entrega, etc. Toda la página se desarrollo en Java, Jsp, Html, css y como Gestor de base de Datos se ocupo Mysql
+> Descripción: Se desarrollo una pequeña página web local para la escuela, la cual proveia un Catálogo de los libros que contaba la Biblioteca Escolar, contaba con reportes que mostraban la información solicitada, tal como Libros prestados, que alumnos tienen libros, si contaba con algun retardo al momento de la entrega, etc. Toda la página se desarrollo en Java, Jsp, Html, css y como Gestor de base de Datos se ocupo Mysql. Actualmente se encuentra funcionando.
 
 ### **Herramientas para Soporte**
-**Saludness***
-> Descripción: Se desarrolla un pequeño sistema para uso interno del equipo de soporte de la empresa Saludness. Este pequeño sistema cubre ciertos rubros a cumplir para la Empresa DOIHI. Dentro del sistema se puede capturar las Entradas al Comedor del personal, la Temperatura, generar resguardos para el Personal Médico, de enfermeria y Administrativos que sean de primer ingreso y trabajen con el Expediente Clínico Electronico. El sistema fue hecho completamente en C# con diferentes extensiones para la generación de reportes y los resguardos correspondientes, Toda la información se guarda en Google Sheets por cuestiones administrativas por parte de DOIHI.
+**Saludness, S.A. de C.V.**
+> Descripción: Se desarrolla un pequeño sistema para uso interno del equipo de soporte de la empresa Saludness. Este pequeño sistema cubre ciertos rubros a cumplir para la Empresa DOIHI, S.A.P.I. de C.V.. Dentro del sistema se puede capturar las Entradas al Comedor del personal, la Temperatura, generar resguardos para el Personal Médico, de enfermeria y Administrativos que sean de primer ingreso y trabajen con el Expediente Clínico Electronico. El sistema fue hecho completamente en C# con diferentes extensiones para la generación de reportes y los resguardos correspondientes, Toda la información se guarda en Google Sheets por cuestiones administrativas por parte de DOIHI, S.A.P.I. de C.V.. Actualmente se encuentra funcionando y se sigue actualizando ante las necesidades del equipo de Soporte.
