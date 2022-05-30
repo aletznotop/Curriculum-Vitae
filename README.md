@@ -1,21 +1,21 @@
 # Curriculum Vitae / Hoja de Vida
 Portafolio de Alejandro Cancino
 
-Soy Ingeniero en Sistemas, con 6 años de experiencia en el Sector Laboral. Cuento con 3 años de DEsarrollo de Software y 3 Años como Ingeniero de Soporte.  Me he especializado en las herramientas que he ocupado a lo largo de mis 6 años laborando.
+Soy Ingeniero en Sistemas, con 6 años de experiencia en el Sector Laboral. Cuento con 3 años de Desarrollo de Software y 3 Años como Ingeniero de Soporte.  Me he especializado en las herramientas que he ocupado a lo largo de mis 6 años laborando. 
 
-Actualmente me encuentro en Búsqueda de nuevos retos, nuevas propuestas.
+> Actualmente me encuentro en búsqueda de nuevos retos, nuevas experiencias en otras empresas.
 
 
 # Experiencia Laboral
 
-2019 - Actualidad
+### 2019 - Actualidad
 
 **Empresa**: Saludness | Hospital Regional de Alta Especialidad de Ixtapaluca
 **Cargo**: Ingeniero de Soporte y Consultoria.
-**Actividades realizadas**: Soporte en sitio y Vía Telefonica para el personal de salud que labora dentro del hospita, levantamiento de requerimientos, implementacion y coordinacion de cambios al Sistema Clínico Electronico. Manejo de herramientas como Tableros Trello basado en la Metodologia Kanban, manejo de SpreedSheet de Google. 
+**Actividades realizadas**: Soporte en sitio y Vía Telefonica para el personal de salud que labora dentro del hospital, levantamiento de requerimientos, implementacion y coordinacion de cambios al Sistema Clínico Electronico. Manejo de herramientas como Tableros Trello basado en la Metodologia Kanban, manejo de SpreedSheet de Google. 
 
 
-2016 - 2019
+### 2016 - 2019
 
 **Empresa**: Nueva Generacion Manufacturas S.A. de C.V.
 **Cargo**: Programador Jr
@@ -24,6 +24,7 @@ Actualmente me encuentro en Búsqueda de nuevos retos, nuevas propuestas.
 
 # Conocimientos y Aptitudes
 - Programación en diferentes lenguajes
+```
   - Java
   - Javascript
   - CSS
@@ -33,21 +34,34 @@ Actualmente me encuentro en Búsqueda de nuevos retos, nuevas propuestas.
   - Pxplus
   - Providex
   - Python
+```
 
 - Desarrollo de Base de datos 
+```
   - Mysql
   - Oracle 12
   - Microsoft SQL
-
+```
 - Herramientas diversas
+```
   - Trello
+```
 
 - Cursos y Certificaciones
+```
   - Scrum Master | MediaSoft
   - P.M.I. | Udemy & ....
-
+```
 
 # Proyectos 
 
-He trabajado en proyectos personales que han ayudado dentro en algunos caso en Escuelas y Equipos de Soporte
+### He trabajado en proyectos personales que han ayudado dentro en algunas Escuelas y Equipos de Soporte
 
+
+### **Sistema de Biblioteca**
+**Colegio de Estudios Científicos y Tecnológicos del Estado de México**
+> Descripción: Se desarrollo una pequeña página web local para la escuela, la cual proveia un Catálogo de los libros que contaba la Biblioteca Escolar, contaba con reportes que mostraban la información solicitada, tal como Libros prestados, que alumnos tienen libros, si contaba con algun retardo al momento de la entrega, etc. Toda la página se desarrollo en Java, Jsp, Html, css y como Gestor de base de Datos se ocupo Mysql
+
+### **Herramientas para Soporte**
+**Saludness***
+> Descripción: Se desarrolla un pequeño sistema para uso interno del equipo de soporte de la empresa Saludness. Este pequeño sistema cubre ciertos rubros a cumplir para la Empresa DOIHI. Dentro del sistema se puede capturar las Entradas al Comedor del personal, la Temperatura, generar resguardos para el Personal Médico, de enfermeria y Administrativos que sean de primer ingreso y trabajen con el Expediente Clínico Electronico. El sistema fue hecho completamente en C# con diferentes extensiones para la generación de reportes y los resguardos correspondientes, Toda la información se guarda en Google Sheets por cuestiones administrativas por parte de DOIHI.
