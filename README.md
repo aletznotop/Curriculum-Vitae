@@ -4,7 +4,7 @@ Portafolio de Alejandro Cancino
 
 Soy Ingeniero en Sistemas, con 6 años de experiencia en el Sector Laboral. Cuento con 3 años de Desarrollo de Software y 3 Años como Ingeniero de Soporte.  Me he especializado en las herramientas que he ocupado a lo largo de mis 6 años laborando. 
 
-> Actualmente me encuentro en búsqueda de nuevos retos, nuevas experiencias en otras empresas.
+> Actualmente me encuentro en búsqueda de nuevos retos y de nuevas experiencias
 
 
 # Experiencia Laboral
