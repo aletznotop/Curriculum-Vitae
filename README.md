@@ -27,7 +27,7 @@ Soy Ingeniero en Sistemas, con 6 años de experiencia en el Sector Laboral. Cuen
 **Actividades realizadas**: Desarrollo de aplicaciones para los usuarios internos de la Empresa, así como brindar soporte tecnico a los equipos de computo. Levantamiento de requerimientos e implementacion de los diferentes modulos que abarca la empresa, como Finanzas, Ingenieria, Ventas, etc.
 
 
-# Conocimientos y Aptitudes
+# Conocimientos
 - Programación en diferentes lenguajes
   - Java
   - Javascript
@@ -54,6 +54,12 @@ Soy Ingeniero en Sistemas, con 6 años de experiencia en el Sector Laboral. Cuen
 - Cursos y Certificaciones
   - Scrum Master | MediaSoft
   - P.M.I. | Udemy & ....
+
+
+# SoftSkills
+
+- Trabajo en equipo
+- Comunicación
 
 
 # Proyectos 
