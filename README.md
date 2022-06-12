@@ -9,7 +9,18 @@ Soy Ingeniero en Sistemas, con 6 años de experiencia en el Sector Laboral. Cuen
 
 # Experiencia Laboral
 
-### 2019 - Actualidad
+
+### Junio 2022 - Actualidad
+
+**Empresa**: CogniTI S.A. de C.V.
+
+**Cargo**:  Programador MID
+
+**Actividades Realizadas**:  Por Definir
+
+
+
+### Agosto 2019 - Junio 2022
 
 **Empresa**: Saludness | Hospital Regional de Alta Especialidad de Ixtapaluca
 
