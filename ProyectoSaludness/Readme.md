@@ -16,3 +16,11 @@
 ![6](https://user-images.githubusercontent.com/27118905/172689870-1bab159b-7b42-4254-9b4f-e035c8e592ba.png)
 # Búsqueda en Grid
 ![7](https://user-images.githubusercontent.com/27118905/172689871-54171472-cb7d-476e-a842-262bfe951381.png)
+
+# Funcionalidad
+https://user-images.githubusercontent.com/27118905/173244513-36981e59-aea5-49b0-aee9-66c6b43855ba.mp4
+
+
+
+https://user-images.githubusercontent.com/27118905/173244518-e69c7ccc-1da0-4f91-9fbb-1105765a08c0.mp4
+
