@@ -9,6 +9,14 @@ Soy Ingeniero en Sistemas, con 6 años de experiencia en el Sector Laboral. Cuen
 
 # Experiencia Laboral
 
+### Mayo 2023 - Actualidad
+
+**Empresa**: Saludness/HRAEI
+
+**Cargo**:  Arquitecto de Software
+
+**Actividades Realizadas**: Por Definir
+
 
 ### Junio 2022 - Actualidad
 
