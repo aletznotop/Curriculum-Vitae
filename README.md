@@ -16,7 +16,11 @@ Soy Ingeniero en Sistemas, con 6 años de experiencia en el Sector Laboral. Cuen
 
 **Cargo**:  Programador MID
 
-**Actividades Realizadas**:  Por Definir
+**Actividades Realizadas**:  Desarrollo de software mediante herramientas como Visual Studio, SQL Server, Oracle, Javascript. Tambien uso de librerias como Ajax.Pro.
+> Desarrollo de aplicaciones biométricas
+> Desarrollo de aplicaciones Web para hospitales, Laboratorios Clínicos y Bancos de Sangre. Bajo las Normativas de la NOM
+> Desarrollo de Aplicaciones Web moviles
+> Implementeción de Hemoseguridad y Hemovigilancia en los proyectos de Bnaco de Sangre
 
 
 
