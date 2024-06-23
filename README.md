@@ -15,7 +15,13 @@ Soy Ingeniero en Sistemas, con 6 años de experiencia en el Sector Laboral. Cuen
 
 **Cargo**:  Arquitecto de Software
 
-**Actividades Realizadas**: Por Definir
+**Actividades Realizadas**: 
+- Creacion de nuevas funcionalidades en Scripts de SQL Server
+- Creación de nuevas pantallas para los clientes (Laboratorio, Banco de Sangre y Potología)
+- Optimización del código legacy
+- Reestructuación de la Aplicación de Vb.net a ReactJS, Creando Así CognitiJs
+- Creación de Servicios de Windows para el Manejo de Envio de Correos Electrónicos y Mensajes De Whatsapp bajo la Empresa Twilio
+- Supervisión de becarios
 
 
 ### Junio 2022 - Actualidad
